@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-20T22:47:25 PDT" name="Default suite" finished-at="2024-07-20T22:47:42 PDT" duration-ms="17013">
+    <groups>
+    </groups>
+    <test started-at="2024-07-20T22:47:25 PDT" name="Default test" finished-at="2024-07-20T22:47:42 PDT" duration-ms="17013">
+      <class name="com.training.testcases.LoginTest">
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:com.training.testcases.LoginTest@74f0ea28]" started-at="2024-07-20T22:47:25 PDT" name="BeforeMethod" finished-at="2024-07-20T22:47:30 PDT" duration-ms="4882" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="LoginintoApplication2()[pri:2, instance:com.training.testcases.LoginTest@74f0ea28]" started-at="2024-07-20T22:47:30 PDT" name="LoginintoApplication2" finished-at="2024-07-20T22:47:42 PDT" duration-ms="11707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginintoApplication2 -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:com.training.testcases.LoginTest@74f0ea28]" started-at="2024-07-20T22:47:42 PDT" name="AfterMethod" finished-at="2024-07-20T22:47:42 PDT" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+      </class> <!-- com.training.testcases.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
